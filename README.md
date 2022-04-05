@@ -5,7 +5,7 @@
   About this Repo:
   
       This repo contains no game asset data in order to compile your own version of the game for emulation use
-      you are required to have your own ".XBE" file from your own copy of ninjs gaiden black.
+      you are required to have your own ".XBE" file from your own copy of ninja gaiden black.
       
   How to Compile this Project:
   
