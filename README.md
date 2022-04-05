@@ -1,4 +1,4 @@
-# DECOMP__Ninja
+# DECOMP__Ninja1
     A DE compilation of Ninja Gaiden Black + NG2 for Emulation and physical modded hardware.
   ![image](https://i.ibb.co/tDmH4hB/Ninja.png)
   
@@ -21,7 +21,7 @@
   
       ETA: Not sure yet: Update soon as I get closer to completing this project.
       
-  # DECOMP__Ninja
+  # DECOMP__Ninja2
     A DE compilation of Ninja Gaiden Black + NG2 for Emulation and physical modded hardware.
   ![image](https://i.ibb.co/M1vxSDd/249121.png)
   
