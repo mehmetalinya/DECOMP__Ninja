@@ -1,5 +1,5 @@
 # DECOMP__Ninja1
-    A DE compilation of Ninja Gaiden Black + NG2 for Emulation and physical modded hardware.
+    A decompilation of Ninja Gaiden Black + NG2!!
   ![image](https://i.ibb.co/tDmH4hB/Ninja.png)
   
   About this Repo: NGB::
