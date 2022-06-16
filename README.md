@@ -1,5 +1,6 @@
 # DECOMP__Ninja1
     A decompilation of Ninja Gaiden Black + NG2!!
+    Status: indevelopment:
   ![image](https://i.ibb.co/tDmH4hB/Ninja.png)
   
   About this Repo: NGB::
