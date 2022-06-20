@@ -1,7 +1,12 @@
 # DECOMP__Ninja1
     A decompilation of Ninja Gaiden Black + NG2!!
     Status: indevelopment:
-  ![image](https://i.ibb.co/tDmH4hB/Ninja.png)
+    
+             "NGB"
+    BackEnd DirectX "12" Added
+    Render UI Options Almost-Done
+    Render Window Done
+  ![image](https://i.ibb.co/QF3j6xD/Capture.png)
   
   About this Repo: NGB::
   
