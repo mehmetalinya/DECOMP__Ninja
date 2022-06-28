@@ -1,6 +1,8 @@
 # DECOMP__Ninja1
     A decompilation of Ninja Gaiden Black + NG2!!
     Status: indevelopment:
+    Status: Working on Recreating the NGB UI.
+            So A delay is pushing till then.
     
              "NGB"
     BackEnd DirectX "12" Added
