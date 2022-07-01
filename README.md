@@ -8,7 +8,7 @@
     The project is on a complete halt until I can do some file forensics on these files to maybe if I am lucky to 
     crack there algorithm's used. 
     If so will be a huge step in the ngb modding community because most likely the same algorithm's are used in 
-    ngb or just slightly modified. So Stay tuned do not know how long this will take me to get this done. 
+    ng2 or just slightly modified. So Stay tuned do not know how long this will take me to get this done. 
     This will be a hard task to battle, no source code or anything to work with no information on the internet 
     nothing the first time ever doing this. Keep your fingers crossed. 
     
