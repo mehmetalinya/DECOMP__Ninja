@@ -1,8 +1,7 @@
 # DECOMP__Ninja1
     A decompilation of Ninja Gaiden Black + NG2!!
     Status: indevelopment:
-    Status: Working on Recreating the NGB UI.
-            So A delay is pushing till then.
+    Status: After some long evening sessions on "NGB" Asset data types Reverse Engineering them on linux. I found out that after doing some scans on all known "Compression / Decompression - Encryption / Decryption" algorithm's these file types are UNKNOWN. It was a sad evening to know there is nothing on these types of algorithm's used and created by team ninja. The project is on a complete halt until I can do some file forensics on these files to maybe if I am lucky crack there algorithm's used. If so will be a huge step in the ngb modding community because most likely the same algorithm's are used in ngb or just slightly modified. So Stay tuned do not know how long this will take me to get this done. This will be a hard task to battle, no source code or anything to work with no information on the internet nothing the first time ever doing this. Keep your fingers crossed. 
     
              "NGB"
     BackEnd DirectX "12" Added
